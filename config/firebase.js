@@ -1,5 +1,6 @@
 const fs = require("firebase-admin");
 
+// If credential is in key.json
 const serviceAccount = require("./key.json");
 
 fs.initializeApp({
