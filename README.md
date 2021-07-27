@@ -1,10 +1,10 @@
 # **CrawlenHost**
 
-DEMO: http://crawlenhost.herokuapp.com/
+DEMO: <a href="http://crawlenhost.herokuapp.com/" target="_blank">http://crawlenhost.herokuapp.com/</a>
 
 ## **Propósito do projeto**
 
-O projeto foi criado para armazenar no banco de dados, os resultados das raspagens do crawler Node Google Image Scrapper.
+O projeto foi criado para armazenar no banco de dados, os resultados das raspagens do crawler <a href="https://github.com/eduardopinheiromr/node-google-image-scrapper" target="_blank">Node Google Image Scrapper</a>.
 <br/>
 <br/>
 
